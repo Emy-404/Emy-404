@@ -2,13 +2,13 @@
 <table>
   <tr>
     <td>
-      <a href="https://github.com/Emy-404">
-        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Emy-404&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+      <a href="https://github.com/emyy-coelho">
+        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=emyy-coelho&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
       </a>
     </td>
     <td>
-      <a href="https://github.com/Emy-404">
-        <img height="180em" src="https://github-profile-trophy.vercel.app/?username=Emy-404&theme=tokyonight&no-frame=true&row=2&column=3"/>
+      <a href="https://github.com/emyy-coelho">
+        <img height="180em" src="https://github-profile-trophy.vercel.app/?username=emyy-coelho&theme=tokyonight&no-frame=true&row=2&column=3"/>
       </a>
     </td>
   </tr>
@@ -38,7 +38,7 @@
 </div>
 ###
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Emy-404/Emy-404/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Emy-404/Emy-404/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/Emy-404/Emy-404/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/emyy-coelho/emyy-coelho/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/emyy-coelho/emyy-coelho/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/emyy-coelho/emyy-coelho/output/github-snake.svg" />
 </picture>
