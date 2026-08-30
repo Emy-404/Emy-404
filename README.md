@@ -1,10 +1,10 @@
 <h2 align="left">Olá mundo, eu sou Emily Coelho. Bem-vindo(a) ao meu perfil!</h2>
-
+![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 <br><br>
 <div align="center">
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=emyy-coelho&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true&layout=compact" height="165"/>
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Emy-404&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true&layout=compact" height="165"/>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://github-readme-stats.shion.dev/api?username=emyy-coelho&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true" height="165"/>
+  <img src="https://github-readme-stats.shion.dev/api?username=Emy-404&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true" height="165"/>
 </div>
 <br><br>
 ###  Technologies and Skills
@@ -21,8 +21,8 @@
 <br><br>
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/emyy-coelho/emyy-coelho/output/pacman-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/emyy-coelho/emyy-coelho/output/pacman.svg" />
-    <img alt="pacman-contribution-graph" src="https://raw.githubusercontent.com/emyy-coelho/emyy-coelho/output/pacman.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Emy-404/Emy-404/output/pacman-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Emy-404/Emy-404/output/pacman.svg" />
+    <img alt="pacman-contribution-graph" src="https://raw.githubusercontent.com/Emy-404/Emy-404/output/pacman.svg" />
   </picture>
 </div>
