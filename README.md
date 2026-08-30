@@ -4,13 +4,13 @@
 <table>
   <tr>
     <td>
-      <a href="https://github.com/v1ih">
+      <a href="https://github.com/emyy-coelho">
         <img height="180em" src="https://github-readme-stats.vercel.app/api?username=v1ih&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
       </a>
     </td>
     <td>
-      <a href="https://github.com/v1ih">
-        <img height="180em" src="https://github.com/Emy-404"/>
+      <a href="https://github.com/emyy-coelho">
+        <img height="180em" src="https://github.com/emyy-coelho"/>
       </a>
     </td>
   </tr>
